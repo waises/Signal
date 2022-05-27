@@ -1,0 +1,3 @@
+C:/school/OOP_LW/Programs for git/Signal/GitSignal-test/build/CMakeFiles/Signal.dir
+C:/school/OOP_LW/Programs for git/Signal/GitSignal-test/build/CMakeFiles/edit_cache.dir
+C:/school/OOP_LW/Programs for git/Signal/GitSignal-test/build/CMakeFiles/rebuild_cache.dir
